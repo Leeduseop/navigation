@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@id/firstHomeScreen"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="@string/first_title" />
+
+    <item
+        android:id="@id/secondHomeScreen"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="@string/second_title" />
+
+    <item
+        android:id="@id/thirdHomeScreen"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="@string/third_title" />
+</menu>

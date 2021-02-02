@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">navigation</string>
+
+    <string name="first_title">첫번째</string>
+    <string name="second_title">두번째</string>
+    <string name="third_title">세번째</string>
+</resources>
